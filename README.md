@@ -1,17 +1,25 @@
 # Hasitha Mapalagama
 
+## Talk to me 
+
+ - [dev.hasitha@gmail.com](mailto:webdesign@example.com)
+ -  [+94752566472](https://api.whatsapp.com/send?phone=94752566472)
+ - [Linkedin](https://www.linkedin.com/in/mapalagama93/)
+
 ## Skills 
 
-> • Strong understanding of object oriented designs, design patterns and database design patterns
-> • Java (Springboot)
-> • Hands on experience in AWS
-> • Kubernetes, Docker and other Deployment platforms
-> • CI/CD with (Jenkins, Codebuild)
-> • Android (Java, Kotlin) and iOS (Swift, Objective - C)
-> • Cross platform app development (Flutter, React-native and Ionic)
-> • MySQL and Mongodb 
-> • Nodejs 
-> • Python, Golang, Javascript, Html, CSS
+ - Strong understanding of object oriented designs, design patterns
+   and database design patterns  
+  -  Java (Springboot)  
+  -  Hands on experience in AWS  
+   - Kubernetes, Docker and other Deployment
+   platforms  
+   -  CI/CD with (Jenkins, Codebuild)  
+   -  Android (Java,  Kotlin) and iOS (Swift, Objective - C)  
+   -  Cross platform app development (Flutter, React-native and Ionic)  
+   - MySQL and Mongodb  
+   - Nodejs   
+   -  Python, Golang, Javascript, Html, CSS
 
 ## Experience
 
