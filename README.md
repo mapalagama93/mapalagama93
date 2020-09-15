@@ -4,10 +4,11 @@
 ## Talk to me 
 
  - [dev.hasitha@gmail.com](mailto:webdesign@example.com)
- - [+94752566472](https://api.whatsapp.com/send?phone=94752566472) [+94779492981](https://api.whatsapp.com/send?phone=94779492981)
+ - [+94752566472](https://api.whatsapp.com/send?phone=94752566472) 
+ - [+94779492981](https://api.whatsapp.com/send?phone=94779492981)
  - [Linkedin](https://www.linkedin.com/in/mapalagama93/)
 
-## What I've done so far
+## Few things I've done so far
 
 ### [E-POA \[Viditure Inc\]](https://apps.apple.com/us/app/e-poa/id1447877163)
 
@@ -25,6 +26,14 @@
 
 > Poth application is another online reading platform that allow individual authors to get into market and sell their publications. I was responsible for developing iOS application, servers deployment and few areas in back-end servers.
  
+### [Sindu Sinhala Songs & Podcasts \[Treinetic Pvt Ltd\]](https://apps.apple.com/us/app/sindu-sinhala-songs-podcasts/id1447227599)
+
+> Sindu is an online audio streaming platform that allow users to stream sinhala songs and podcasts. I was responsible for developing iOS application, servers deployment and  back-end servers. Sindu application is an one most rated ios application in Sri Lanka. 
+ 
+ ### [Examiner \[Treinetic Pvt Ltd\]]( https://apps.apple.com/lk/app/examiner-sri-lanka/id1493898111)
+
+> Examiner allow Sri Lankan students to practice Advance Level, Ordinary Level MCQ papers on their smart-phone. Mobile application is developed with Flutter. I was the lead of this project including back-end and mobile applications. 
+
 
 ## Skills 
 
@@ -43,22 +52,17 @@
 
 ## Experience
 
-#### Head of Technology
-*Jan 2020 – Present*
- - Project planing, system architecture designing.    
- - Lead  and monitor software engineers.     
- - Manage build servers and repositories. 
- - Infrastructure management. 
- - Provide information required to make executive level decisions.
 
 #### Senior Software Engineer
 
-*Jan 2019 – Dec 2019*
+*Jan 2019 – Present*
 
- - Lead software engineers. 
+ - Lead  and monitor software engineers. 
+ - Project planing, system architecture designing.  
  - Develop web applications with Java, PHP and NodeJs.  
  - Develop mobile application with Native Android, iOS, Flutter. 
  - Manage build servers and repositories.   
+ - Provide information required to make executive level decisions.
 
 #### Software Engineer
 *Jan 2017 – Jan 2019*
