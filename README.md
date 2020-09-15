@@ -3,8 +3,7 @@
 ## Talk to me 
 
  - [dev.hasitha@gmail.com](mailto:webdesign@example.com)
- - [+94752566472](https://api.whatsapp.com/send?phone=94752566472)
- _ [+94779492981](https://api.whatsapp.com/send?phone=94779492981)
+ - [+94752566472](https://api.whatsapp.com/send?phone=94752566472) [+94779492981](https://api.whatsapp.com/send?phone=94779492981)
  - [Linkedin](https://www.linkedin.com/in/mapalagama93/)
 
 ## Skills 
