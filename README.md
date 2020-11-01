@@ -8,7 +8,7 @@
  - [+94779492981](https://api.whatsapp.com/send?phone=94779492981)
  - [Linkedin](https://www.linkedin.com/in/mapalagama93/)
 
-## Few things I've done so far
+## Few Projects I have done
 
 ### [E-POA \[Viditure Inc\]](https://apps.apple.com/us/app/e-poa/id1447877163)
 
@@ -33,6 +33,10 @@
  ### [Examiner \[Treinetic Pvt Ltd\]]( https://apps.apple.com/lk/app/examiner-sri-lanka/id1493898111)
 
 > Examiner allow Sri Lankan students to practice Advance Level, Ordinary Level MCQ papers on their smart-phone. Mobile application is developed with Flutter. I was the lead of this project including back-end and mobile applications. 
+
+## Articles by me
+
+- ##### [Do you really need microservices ?](https://www.linkedin.com/pulse/do-you-really-need-microservices-hasitha-mapalagama/)
 
 
 ## Skills 
